@@ -14,7 +14,7 @@ public class BukuDigital extends Buku {
         System.out.println("tahun terbit : " + tahunTerbit);
         System.out.println("kategori buku : " + kategori);
         //TIDAK LOLOS(ERROR)
-        System.out.println("kode rak buku : " + kodeRak);
-        System.out.println("harga buku : " + hargaBuku);
+        // System.out.println("kode rak buku : " + kodeRak);
+        // System.out.println("harga buku : " + hargaBuku);
     }
 }

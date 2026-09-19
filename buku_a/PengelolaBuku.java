@@ -10,6 +10,6 @@ public class PengelolaBuku {
         System.out.println("kategori buku : " + buku.kategori);
         System.out.println("kode rak buku : " + buku.kodeRak);
         // TIDAK LOLOS (ERROR)
-        System.out.println("harga buku : " + buku.hargaBuku);
+        // System.out.println("harga buku : " + buku.hargaBuku);
     }
 }
