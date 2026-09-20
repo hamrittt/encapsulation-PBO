@@ -12,7 +12,7 @@ public class Main {
         // ================================================================
         // 1) Akses langsung dari Main (package berbeda, bukan subclass)
         // ================================================================
-        System.out.println("======== AKSES DARI MAIN (package berbeda, bukan subclass) ========");
+        System.out.println("\n======== AKSES DARI MAIN (package berbeda, bukan subclass) ========");
         System.out.println("judul (public)        : " + buku.judul);        // LOLOS -> public bisa diakses dari mana saja
         // System.out.println(buku.kategori);   // ERROR -> protected: hanya package sama / subclass
         // System.out.println(buku.kodeRak);    // ERROR -> default: hanya boleh diakses dalam package yang sama (buku_a)

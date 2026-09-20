@@ -20,8 +20,8 @@ public class TransaksiPeminjaman {
         System.out.println("penulis : " + buku.penulis);
         System.out.println("tahun terbit : " + buku.tahunTerbit);
         //TIDAK LOLOS (ERROR)
-        //System.out.println("kategori buku : " + kategori);
-        //System.out.println("kode rak buku : " + kodeRak);
-        //System.out.println("harga buku : " + hargaBuku);
+        // System.out.println("kategori buku : " + kategori);
+        // System.out.println("kode rak buku : " + kodeRak);
+        // System.out.println("harga buku : " + hargaBuku);
     }
 }
